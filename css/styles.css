@@ -26,6 +26,16 @@ nav ul{
 }
 
 
+#divsecao2{
+   font-family: 'Circular', 'Helvetica','Arial',sans-serif;
+   margin-left: 140px;
+   
+   font-style:12px;
+   line-height: 1.5;
+   color: #222326;
+   
+}
+
 
 nav ul li{
 
@@ -50,7 +60,7 @@ a{
 header{
     text-align: center;
     color:white;
-    padding-top: 350px;
+    padding-top: 320px;
     padding-left: 30px;
     background-image: url("../img/bkg1.jpg");
     background-size: 100%;
@@ -124,4 +134,18 @@ li a{
     width: 80px;
     margin-left: 70px;
     margin-top: 80px;
+}
+
+.h1sec2{
+
+font-size:40px;
+font-weight:900;
+padding-top: 35px;
+
+
+}
+
+
+#section3{
+    padding-top: 80px;
 }
